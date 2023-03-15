@@ -1,0 +1,30 @@
+body {
+     margin: 20px 5%;
+}
+.titulo {
+    background-color:lightgrey;
+    margin-left:0%;
+}  
+.input-group-text{
+    background: white;
+    border:0px;
+}
+.credit { 
+    background-color:rgb(194, 189, 189) ;
+    width: 40%;
+    height: 30px;
+    border-radius:4px;
+    padding: 3px;
+}
+.cancel-send {
+    background-color: #F0EAE4;
+}
+
+.margin-icon{
+    margin-right: 10%;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
